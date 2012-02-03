@@ -83,7 +83,7 @@ loadLogFile()
 errorNotificator()
 {
     echo ""
-    echo "Error: None of the supported notificator was found on your system: $1"
+    echo "Error: None of the supported notificators was found on your system: $1"
     echo ""
 }
 
