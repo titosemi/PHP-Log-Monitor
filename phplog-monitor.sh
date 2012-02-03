@@ -18,6 +18,10 @@ init()
         if [[ "$growl" != "" ]]
         then
             notificator="Growl"
+        elif [[ -d "/Library/PreferencePanes/Growl.prefPane/" ]] || 
+             [[ -d "~/Library/PreferencePanes/Growl.prefPane/" ]]
+        then
+             open -b com.Growl.GrowlHelperApp
         else
             errorNotificator "Growl"
             exit 1
