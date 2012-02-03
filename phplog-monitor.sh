@@ -232,7 +232,6 @@ debugConfiguration()
     echo "| debug:        $debug"
     echo "| system:       $system"
     echo "| notificator:  $notificator"
-    echo "| errorLevel:   $errorLevel"
     echo "------------------------------"
 }
 
