@@ -1,5 +1,11 @@
 #!/bin/sh
 
+# (c) Josemi Liébana <office@josemi-liebana.com> <http://josemi-liebana.com>
+#
+# For the full copyright and license information, please view the License
+# file that was distributed with this source code.
+#
+
 title="PHP Log Monitor"
 log=""
 icons=""
