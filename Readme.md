@@ -6,6 +6,8 @@ I like to develop monitoring the php log with tail, so whenever a error comes, i
 That does work, but often happens (at least to me) that the console isn't at the front of the applications (it also happens quite often even with two monitors).  
 That's why i wanted a way to whenever a error appears (Fatal error, Parse error, Deprecated, Warning or Notice) being able to quickly see it in my screen.
 
+You can see some screenshots [here](http://titosemi.github.com/PHP-Log-Monitor/)
+
 ## Getting Started
 
 ## Installation
